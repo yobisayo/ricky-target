@@ -1,5 +1,5 @@
 Target:
-- belajar GO
 - belajar redis
 - belajar mongo
 - belajar es
+- belajar sql

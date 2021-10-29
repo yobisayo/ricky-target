@@ -1,0 +1,4 @@
+Target:
+- belajar GO
+- belajar redis
+- belajar mongo

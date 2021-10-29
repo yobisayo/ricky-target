@@ -4,4 +4,7 @@ belajar go
 - Read
  * gorm, gin
 - Update 
- * gorilla mux
+ * gorm
+- Delete
+ - gin
+- contex
